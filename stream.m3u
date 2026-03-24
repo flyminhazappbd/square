@@ -1,9 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_buck_bunny_poster_big.jpg" group-title="Kids",Big Buck Bunny
-https://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_buck_bunny_poster_big.jpg" group-title="Kids",Big Buck Bunny
-https://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_640x360.m4v
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_buck_bunny_poster_big.jpg" group-title="Kids",Big Buck Bunny
-https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_1080p_surround.avi
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_buck_bunny_poster_big.jpg" group-title="Kids",Big Buck Bunny
-https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_720p_stereo.ogg
+#EXTINF:-1 tvg-logo="http://tv.bdixbd.org/assets/images/T%20SPORTS1744972630.png" group-title="Sports",T Sports
+https://tvsen7.aynascope.net/tsports-hd/tracks-v1a1/mono.ts.m3u8?e=1774377767&token=f6352b35420fb0f41afc48f4ca579243&u=d5aa5661-a81d-4984-b26e-67ff93657897
+#EXTINF:-1 tvg-logo="http://tv.bdixbd.org/assets/images/T%20SPORTS1744972630.png" group-title="Sports",T Sports
+http://103.144.89.251:8082/T-SPORTS-HD/tracks-v1a1/mono.m3u8?token=67444c4be3410bc1979e8e50843172cae5df5744-51cb253449c9c7e4ca09bc22b70ec16e-1774380518-1774369718
+#EXTINF:-1 tvg-logo="http://103.144.89.251/assets/images/A%20SPORTS%20HD1745044782.png" group-title="Sports",A Sports
+https://tvsen6.aynascope.net/asports/tracks-a1/mono.ts.m3u8?e=1774378049&token=e63fe16dad53612dc072820cf40cad78&u=d5aa5661-a81d-4984-b26e-67ff93657897
+#EXTINF:-1 tvg-logo="http://103.144.89.251/assets/images/A%20SPORTS%20HD1745044782.png" group-title="Sports",A Sports
+http://103.144.89.251:8082/A.SPORTS.HD/tracks-v1a1/mono.m3u8?token=9f01d73bc00b0dfb717b7ed9c2ca5665e78f57e8-db4d17acccbbea85c21b4229a247a617-1774380517-1774369717
+#EXTINF:-1 tvg-logo="http://103.144.89.251/assets/images/PTV%20SPORTS%20HD1745044993.png" group-title="Sports",PTV Sports
+https://tvsen5.aynascope.net/PtvSports/tracks-v1a1/mono.ts.m3u8?e=1774378184&token=96da451a113afbffed1a6c019582fa4d&u=d5aa5661-a81d-4984-b26e-67ff93657897
+#EXTINF:-1 tvg-logo="http://103.144.89.251/assets/images/PTV%20SPORTS%20HD1745044993.png" group-title="Sports",PTV Sports
+http://103.144.89.251:8082/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8?token=d09f94bf8c5c938fa6f4807eb02708cf5fd1150c-891213d143169aaf46e217aec265087b-1774380517-1774369717
+#EXTINF:-1 tvg-logo="http://103.144.89.251/assets/images/CHANNEL%20I1745044237.png" group-title="Bangla",Channel I
+https://tvsen6.aynascope.net/channeli/tracks-v1a1/mono.ts.m3u8?e=1774378281&token=15dfc94de2e2cfc9077c887ca3c5b337&u=d5aa5661-a81d-4984-b26e-67ff93657897
+#EXTINF:-1 tvg-logo="http://103.144.89.251/assets/images/CHANNEL%20I1745044237.png" group-title="Bangla",Channel I
+http://103.144.89.251:8082/CHANNEL.I.HD/tracks-v1a1/mono.m3u8?token=001bdf2b1b7c2ec6ebbd1e4774b47b5a9db45501-30b389e0d71a37161035afbb1761e6bb-1774380517-1774369717
+#EXTINF:-1 tvg-logo="http://103.144.89.251/assets/images/ATN%20BANGLA1745044183.png" group-title="Bangla",ATN BANGLA
+https://tvsen5.aynascope.net/atnbangla/tracks-v1a1/mono.ts.m3u8?e=1774378456&token=68a3ebce136ec4976e3898fab21b1cac&u=d5aa5661-a81d-4984-b26e-67ff93657897
+#EXTINF:-1 tvg-logo="http://103.144.89.251/assets/images/ATN%20BANGLA1745044183.png" group-title="Bangla",ATN BANGLA
+http://103.144.89.251:8082/ATN.BANGLA.HD/tracks-v1a1/mono.m3u8?token=24049195f44550b391c0213efe6f23bef39d7b94-04290f8312d6c29e459cf75a5c4ed658-1774380517-1774369717
